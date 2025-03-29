@@ -2,6 +2,10 @@
 
 A simple, real-time ray-tracer written in C using the SDL3 graphics library. This project was built as a fun visualization of ray propagation and object collision using basic geometry.
 
+### 📸 Preview
+
+![Ray Tracer Demo](assets/ray-tracer.gif)
+
 ## Features
 
 - Draws dynamic rays from a movable light source (mouse-controlled)
