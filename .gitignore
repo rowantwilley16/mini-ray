@@ -1,0 +1,19 @@
+# Ignore build directories
+/bin/
+/obj/
+
+# Ignore Code::Blocks specific files
+*.depend
+*.layout
+
+# Ignore backup and temporary files
+*~
+*.swp
+*.bak
+*.tmp
+*.old
+
+# Optional: Ignore compiled binaries (if you ever put them here)
+*.exe
+*.out
+*.o
